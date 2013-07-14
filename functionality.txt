@@ -1,0 +1,17 @@
+1)Clients can specfy their Items on which dicount can be given,
+	Seperate table for each client
+	GPS location of Client to be stored
+
+2)User can Create a list of ITEMs he want to buy,
+	According to the GPS location of user, Clients offer will be shown
+Automatically in notification
+
+3)User can search for discount on items manually in a particular city
+
+4)Special offer discount of client will be show to user by GPS location Automatically
+
+5)User can get special discount on purchase on showing the generated code
+
+6)Help box for user, Notification will be recived by the client pc
+
+7) Map to guide in the store
